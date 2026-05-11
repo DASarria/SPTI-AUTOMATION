@@ -1,0 +1,11 @@
+{
+  "target": "127.0.0.1",
+  "scan_time_seconds": 0.076,
+  "timestamp": "2026-05-11T18:40:18.090377Z",
+  "open_ports": [
+    22,
+    80
+  ],
+  "scan_mode": "async",
+  "rate_limit": 200
+}
