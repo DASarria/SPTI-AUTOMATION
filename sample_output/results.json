@@ -7,5 +7,151 @@
     80
   ],
   "scan_mode": "async",
-  "rate_limit": 200
+  "rate_limit": 200,
+  "part4_runs": [
+    {
+      "target": "duolingo.com",
+      "type": "domain",
+      "timestamp": "2026-05-11T20:31:59.440888Z",
+      "whois": {
+        "status": "success",
+        "data": "   Domain Name: DUOLINGO.COM\n   Registry Domain ID: 1583217344_DOMAIN_COM-VRSN\n   Registrar WHOIS Server: whois.registrar.amazon\n   Registrar URL: http://registrar.amazon.com\n   Updated Date: 2025-12-22T21:46:31Z\n   Creation Date: 2010-01-26T21:42:38Z\n   Registry Expiry Date: 2027-01-26T21:42:38Z\n   Registrar: Amazon Registrar, Inc.\n   Registrar IANA ID: 468\n   Registrar Abuse Contact Email: trustandsafety@support.aws.com\n   Registrar Abuse Contact Phone: +1.2024422253\n   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\n   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\n   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\n   Name Server: NS-1020.AWSDNS-63.NET\n   Name Server: NS-1117.AWSDNS-11.ORG\n   Name Server: NS-1904.AWSDNS-46.CO.UK\n   Name Server: NS-247.AWSDNS-30.COM\n   DNSSEC: unsigned\n   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/\n>>> Last update of whois database: 2026-05-11T20:31:44Z <<<\n\nFor more information on Whois status codes, please visit https://icann.org/epp\n\nNOTICE: The expiration date displayed in this record is the date the\nregistrar's sponsorship of the domain name registration in the registry is\ncurrently set to expire. This date does not necessarily reflect the expiration\ndate of the domain name registrant's agreement with the sponsoring\nregistrar.  Users may consult the sponsoring registrar's Whois database to\nview the registrar's reported date of expiration for this registration.\n\nTERMS OF USE: You are not authorized to access or query our Whois\ndatabase through the use of electronic processes that are high-volume and\nautomated except as reasonably necessary to register domain names or\nmodify existing registrations; the Data in VeriSign Global Registry\nServices' (\"VeriSign\") Whois database is provided by VeriSign for\ninformation purposes only, and to assist persons in obtaining information\nabout or related to a domain name registration record. VeriSign does not\nguarantee its accuracy. By submitting a Whois query, you agree to abide\nby the following terms of use: You agree that you may use this Data only\nfor lawful purposes and that under no circumstances will you use this Data\nto: (1) allow, enable, or otherwise support the transmission of mass\nunsolicited, commercial advertising or solicitations via e-mail, telephone,\nor facsimile; or (2) enable high volume, automated, electronic processes\nthat apply to VeriSign (or its computer systems). The compilation,\nrepackaging, dissemination or other use of this Data is expressly\nprohibited without the prior written consent of VeriSign. You agree not to\nuse electronic processes that are automated and high-volume to access or\nquery the Whois database except as reasonably necessary to register\ndomain names or modify existing registrations. VeriSign reserves the right\nto restrict your access to the Whois database in its sole discretion to ensure\noperational stability.  VeriSign may restrict or terminate your access to the\nWhois database for failure to abide by these terms of use. VeriSign\nreserves the right to modify these terms at any time.\n\nThe Registry database contains ONLY .COM, .NET, .EDU domains and\nRegistrars.\nDomain Name: duolingo.com\nRegistry Domain ID: 1583217344_DOMAIN_COM-VRSN\nRegistrar WHOIS Server: whois.registrar.amazon\nRegistrar URL: https://registrar.amazon.com\nUpdated Date: 2025-12-22T21:46:32Z\nCreation Date: 2010-01-26T21:42:38Z\nRegistrar Registration Expiration Date: 2027-01-26T21:42:38Z\nRegistrar: Amazon Registrar, Inc.\nRegistrar IANA ID: 468\nRegistrar Abuse Contact Email: trustandsafety@support.aws.com\nRegistrar Abuse Contact Phone: +1.2024422253\nDomain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\nDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\nDomain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\nRegistry Registrant ID: Not Available From Registry\nRegistrant Name: On behalf of duolingo.com owner\nRegistrant Organization: Identity Protection Service\nRegistrant Street: PO Box 786\nRegistrant City: Hayes\nRegistrant State/Province: Middlesex\nRegistrant Postal Code: UB3 9TR\nRegistrant Country: GB\nRegistrant Phone: +44.1483307527\nRegistrant Phone Ext:\nRegistrant Fax: +44.1483304031\nRegistrant Fax Ext:\nRegistrant Email: cd76db5d-98d4-421a-aecd-0b4666e8b35e@identity-protect.org\nRegistry Tech ID: Not Available From Registry\nTech Name: On behalf of duolingo.com owner\nTech Organization: Identity Protection Service\nTech Street: PO Box 786\nTech City: Hayes\nTech State/Province: Middlesex\nTech Postal Code: UB3 9TR\nTech Country: GB\nTech Phone: +44.1483307527\nTech Phone Ext:\nTech Fax: +44.1483304031\nTech Fax Ext:\nTech Email: cd76db5d-98d4-421a-aecd-0b4666e8b35e@identity-protect.org\nName Server: NS-247.AWSDNS-30.COM\nName Server: NS-1020.AWSDNS-63.NET\nName Server: NS-1117.AWSDNS-11.ORG\nName Server: NS-1904.AWSDNS-46.CO.UK\nDNSSEC: unsigned\nURL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/\n>>> Last update of WHOIS database: 2026-05-11T20:31:59Z <<<\nFor more information on Whois status codes, please visit https://icann.org/epp\n\nBy submitting a query to the Amazon Registrar, Inc. WHOIS database, you\nagree to abide by the following terms. The data in Amazon Registrar, Inc.'s\nWHOIS database is provided by Amazon Registrar, Inc. for the sole purpose of\nassisting you in obtaining information about domain name accuracy. You agree\nto use this data only for lawful purposes and further agree not to use this\ndata for any unlawful purpose or to: (1) enable, allow, or otherwise support\nthe transmission by email, telephone, or facsimile of commercial advertising\nor unsolicited bulk email, or (2) enable high volume, automated, electronic\nprocesses to collect or compile this data for any purpose, including mining\nthis data for your own personal or commercial purposes. Amazon Registrar, Inc.\nreserves the right to restrict or terminate your access to the data if you fail\nto abide by these terms of use. Amazon Registrar, Inc. reserves the right\nto modify these terms at any time.\n\nVisit Amazon Registrar, Inc. at https://registrar.amazon.com\n\nContact information available here:\nhttps://docs.aws.amazon.com/Route53/latest/DeveloperGuide/domain-contact-support.html\n\n\u00a9 2020, Amazon.com, Inc., or its affiliates\n\n\n",
+        "registrar": "Amazon Registrar, Inc.",
+        "registrant": "Identity Protection Service"
+      },
+      "dns_A": {
+        "status": "success",
+        "records": [
+          "35.153.234.88",
+          "98.89.254.120",
+          "54.205.107.150",
+          "54.167.143.88"
+        ]
+      },
+      "dns_MX": {
+        "status": "success",
+        "records": [
+          "20 alt2.aspmx.l.google.com.",
+          "20 alt1.aspmx.l.google.com.",
+          "30 aspmx5.googlemail.com.",
+          "30 aspmx4.googlemail.com.",
+          "30 aspmx2.googlemail.com.",
+          "10 aspmx.l.google.com.",
+          "30 aspmx3.googlemail.com."
+        ]
+      },
+      "dns_NS": {
+        "status": "success",
+        "records": [
+          "ns-1020.awsdns-63.net.",
+          "ns-1117.awsdns-11.org.",
+          "ns-1904.awsdns-46.co.uk.",
+          "ns-247.awsdns-30.com."
+        ]
+      },
+      "dns_TXT": {
+        "status": "success",
+        "records": [
+          "\"klaviyo-site-verification=RKdcF3\"",
+          "\"amazonses:+SIz2NZPqYri3C+PSIyKShZIbuI4rNpbLlES7lmvpu4=\"",
+          "\"klaviyo-site-verification=TGmZS7\"",
+          "\"v=spf1 ip4:100.25.59.11 ip4:205.201.128.0/20 ip4:198.2.128.0/18 ip4:148.105.8.0/21 ip4:52.73.203.75 ip4:52.70.130.33 include:amazonses.com include:_spf.google.com include:_spf.salesforce.com include:mail.zendesk.com include:aspmx.pardot.com ~all\"",
+          "\"google-site-verification=975UaH3lkKONB88HjWDDg34p8cdCqyTVSq_KGBAXrmU\"",
+          "\"h1-domain-verification=sjPBeaGqQwEe8YhJ3W8JVNJa7WDQFAzc6AHkURoErkh324Yy\"",
+          "\"_vg2bua41v8x489g1y55hg3hr4h3qmj0\"",
+          "\"docker-verification=b4ead4c5-fd66-42a5-a684-8f2e7f4c1417\"",
+          "\"stripe-verification=c8d270a115adc8c5a0a84fb24e17b7d05f66aad648d01e86f15548c6d0254ff5\"",
+          "\"aliyun-site-verification=1acfc148-50be-45c8-a021-3c933fc8eff9\"",
+          "\"slack-domain-verification=iuNWYimCCkEpnistAJvWc4YOZF8izoZ23TCDek0I\"",
+          "\"atlassian-sending-domain-verification=423a5faf-1cfa-4704-a38a-f7adae302dd6\"",
+          "\"jetbrains-domain-verification=bt8q7duih10l9pmf5fo5yy8wf\"",
+          "\"rippling-domain-verification=9692f0635321f04d\"",
+          "\"spacelift-domain-verification=519xtPXm\"",
+          "\"anthropic-domain-verification-z4335b=YssTBALPY7K784Sri4FjVHjd3\"",
+          "\"e622flctk14s3cs3ccdauh8uth\"",
+          "\"openai-domain-verification=dv-A4cFxdrYIEodfG6UiQU0qxnT\"",
+          "\"pardot_208162_*=c15d5cb1b9f31e26058e1f30bda9e5d65c57cfeea37b34af8e1dd88474460e90\"",
+          "\"apple-domain-verification=bMPI889zOgALUenN\"",
+          "\"MS=ms66530579\"",
+          "\"openai-domain-verification=dv-ieCpefZUqvVQwb8f7o4SlFye\"",
+          "\"pardot_208162_*=610bfb45f202232a79db94c298b30d14332a62a6894e695b025fa7949d7b03fa\""
+        ]
+      },
+      "http_headers": {
+        "status": "success",
+        "headers": {
+          "Date": "Mon, 11 May 2026 20:32:00 GMT",
+          "Content-Type": "text/html",
+          "Content-Length": "145",
+          "Connection": "keep-alive",
+          "Server": "nginx/1.22.1",
+          "Location": "https://www.duolingo.com/",
+          "date": "Mon, 11 May 2026 20:32:01 GMT",
+          "content-type": "text/html; charset=UTF-8",
+          "content-length": "10936",
+          "set-cookie": "wuuid=381b06d2-d090-42db-a7bc-528d05ceca86",
+          "server": "duo-api",
+          "no-retry": "1",
+          "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+          "expires": "0",
+          "pragma": "no-cache",
+          "surrogate-control": "no-store",
+          "x-frame-options": "SAMEORIGIN",
+          "x-tid": "ffffa16c6a01c1aa8872",
+          "x-ws": "UK",
+          "x-runtime": "0.10488",
+          "x-envoy-upstream-service-time": "118",
+          "x-duo-request-host": "www.duolingo.com"
+        }
+      },
+      "https_headers": {
+        "status": "success",
+        "headers": {
+          "date": "Mon, 11 May 2026 20:32:02 GMT",
+          "content-type": "text/html; charset=UTF-8",
+          "content-length": "10936",
+          "location": "https://www.duolingo.com/",
+          "server": "duo-api",
+          "set-cookie": "wuuid=5a674bb0-b730-46c9-b6e8-6e581a70ac0d",
+          "no-retry": "1",
+          "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+          "expires": "0",
+          "pragma": "no-cache",
+          "surrogate-control": "no-store",
+          "x-frame-options": "SAMEORIGIN",
+          "x-tid": "ffffa02d6a01ad75ac57",
+          "x-ws": "UK",
+          "x-runtime": "0.02360",
+          "x-envoy-upstream-service-time": "25",
+          "x-duo-request-host": "www.duolingo.com"
+        }
+      }
+    },
+    {
+      "target": "8.8.8.8",
+      "type": "ip",
+      "timestamp": "2026-05-11T20:34:11.302028Z",
+      "nmap": {
+        "status": "success",
+        "open_ports": [
+          {
+            "port": 53,
+            "service": "tcpwrapped"
+          },
+          {
+            "port": 443,
+            "service": "tcpwrapped"
+          }
+        ]
+      },
+      "reverse_dns": {
+        "status": "error",
+        "error": ""
+      },
+      "whois": {
+        "status": "error",
+        "error": "getaddrinfo(whois.arin.net): Fallo temporal en la resoluci\u00f3n del nombre\n"
+      }
+    }
+  ]
 }

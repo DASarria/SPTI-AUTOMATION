@@ -1,0 +1,22 @@
+2026-05-11 15:31:59,439 INFO Starting domain reconnaissance on duolingo.com
+2026-05-11 15:31:59,439 INFO Output directory: sample_output
+2026-05-11 15:31:59,440 INFO Running whois on domain duolingo.com
+2026-05-11 15:32:00,098 INFO Querying A records for duolingo.com
+2026-05-11 15:32:00,180 INFO Querying MX records for duolingo.com
+2026-05-11 15:32:00,261 INFO Querying NS records for duolingo.com
+2026-05-11 15:32:00,329 INFO Querying TXT records for duolingo.com
+2026-05-11 15:32:00,467 INFO Fetching HTTP headers for duolingo.com
+2026-05-11 15:32:02,271 INFO Results written to sample_output/results.json (merged with existing content when present)
+2026-05-11 15:32:02,271 INFO Markdown report appended to sample_output/report.md
+2026-05-11 15:32:02,271 INFO Reconnaissance complete
+2026-05-11 15:34:11,300 INFO Starting ip reconnaissance on 8.8.8.8
+2026-05-11 15:34:11,301 INFO Output directory: sample_output
+2026-05-11 15:34:11,302 INFO Running nmap on 8.8.8.8
+2026-05-11 15:34:25,887 INFO Reverse DNS lookup for 8.8.8.8
+2026-05-11 15:34:35,114 WARNING Reverse DNS failed: 
+2026-05-11 15:34:35,114 INFO Running whois on IP 8.8.8.8
+2026-05-11 15:34:47,400 WARNING WHOIS on IP failed: getaddrinfo(whois.arin.net): Fallo temporal en la resolución del nombre
+
+2026-05-11 15:34:47,401 INFO Results written to sample_output/results.json (merged with existing content when present)
+2026-05-11 15:34:47,401 INFO Markdown report appended to sample_output/report.md
+2026-05-11 15:34:47,401 INFO Reconnaissance complete
