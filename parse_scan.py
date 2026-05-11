@@ -23,7 +23,6 @@ def parse_nmap_xml(xml_file: str) -> List[Dict]:
         return []
 
     for host in root.findall("host"):
-        # Extract IP address
         addr_elem = host.find("address")
         if addr_elem is None or addr_elem.get("addrtype") != "ipv4":
             continue
@@ -76,7 +75,6 @@ def get_ssh_key_type(ip: str, port: int = 22, timeout: int = 5) -> Optional[str]
             timeout=timeout + 2
         )
         if result.returncode == 0 and result.stdout:
-            # ssh-keyscan output format: ip key-type base64-key
             for line in result.stdout.strip().split('\n'):
                 if line and not line.startswith("#"):
                     parts = line.split()
